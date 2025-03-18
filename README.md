@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I created a basic recipe pages using html fundamentals I learned from the odin project. I constructed a basic html boiler plate for all the webpages I created and used basic html elements that I learned from the curriculum such as the headings, links, headings, paragraphs, images, ordered lists, and unordered lists. Also I implemented relative links for navigation and absolute links for reference.
