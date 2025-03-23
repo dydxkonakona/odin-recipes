@@ -1,0 +1,40 @@
+body {
+    background-color: #66D2CE;
+    color: #EAEAEA;
+    font-family: Garamond, sans-serif;
+}
+
+.main-header,
+h2,
+h3 {
+    text-align: center;
+}
+
+#food-image {
+    height: 310;
+    width: 310;
+    display: block;
+    margin: auto;
+
+}
+
+.description-p {
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.ingredients .ingredient-items {
+    font-weight: lighter;
+    color: #EAEAEA;
+    margin-left: 25%;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+
+.steps .step-item {
+    font-weight: lighter;
+    color: #EAEAEA;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}

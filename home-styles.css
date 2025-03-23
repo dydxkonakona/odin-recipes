@@ -1,0 +1,18 @@
+body {
+    background-color: #66D2CE;
+}
+
+.main-header {
+    text-align: center;
+    font-family: Garamond, sans-serif;
+    color: #EAEAEA;
+}
+
+.recipes .recipe-item {
+    font-family: Garamond, sans-serif;
+    font-weight: lighter;
+    color: #EAEAEA;
+    margin-left: 25%;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
